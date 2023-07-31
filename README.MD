@@ -3,7 +3,7 @@
 </p> -->
 
 <h2 align="center">
-  ChatGPT Clone
+  Clone do ChatGPT no Repositorio Clonado! ♦
 </h2>
 
 Um clone fullstack do chatgpt utilizando uma integração com o algoritmo do OpenAI, repositorio clonado e utilizado para demonstrar o que foi utilizadi neste projeto ministrado pelo Felipe da DIO.
